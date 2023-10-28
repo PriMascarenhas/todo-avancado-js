@@ -12,4 +12,4 @@ E poderão ser deletadas a qualquer momento. À medida que forem realizadas, voc
 ![image](https://github.com/PriMascarenhas/todo-avancado-js/assets/96348318/a5008740-3c4b-4904-acd1-1e9a500dd74c)
 
 # Créditos
-Perfil do Github do professor que ajudou na reazação do projeto: https://github.com/matheusbattisti
+Perfil do Github do professor que ajudou na realização do projeto: https://github.com/matheusbattisti
